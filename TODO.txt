@@ -18,4 +18,5 @@ rev3で追加した行です。
 </TODO/rev2>
 <todo/rev4>
 ブランチrev4で作成した行です。
+さらに行を追加。
 </todo/rev4>
