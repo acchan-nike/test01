@@ -2,6 +2,9 @@
 <todo/rev1>
 これはブランチで作成した行です。
 これはブランチで作成した行です。
+<todo/rev3>
+rev3で追加した行です。
+</todo/rev3>
 </todo/rev1>
 <TODO/rev2>
 これはTODO/rev2で追加した行です。
