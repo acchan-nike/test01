@@ -19,7 +19,12 @@ rev5作成中に発生した不具合対応。
 なんとかかんとか
 なんとかかんとか
 </TODO/rev2>
+<todo/rev5>
+rev5作成中。
+</todo/rev5>
 <todo/rev4>
 ブランチrev4で作成した行です。
 さらに行を追加。
 </todo/rev4>
+<todo/rev5>
+</todo/rev5>
