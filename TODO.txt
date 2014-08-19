@@ -27,5 +27,6 @@ rev5作成中。
 ブランチrev4で作成した行です。
 さらに行を追加。
 </todo/rev4>
-<todo/rev5>
-</todo/rev5>
+<todo/rev6>
+rev6作成中です。
+</todo/rev6>
