@@ -4,6 +4,9 @@
 これはブランチで作成した行です。
 <todo/rev3>
 rev3で追加した行です。
+<todo/rev3/debug>
+rev5作成中に発生した不具合対応。
+</todo/rev3/debug>
 </todo/rev3>
 </todo/rev1>
 <TODO/rev2>
