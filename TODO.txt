@@ -29,4 +29,5 @@ rev5作成中。
 </todo/rev4>
 <todo/rev6>
 rev6作成中です。
+rev6に修正漏れがありました。
 </todo/rev6>
