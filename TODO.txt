@@ -32,4 +32,7 @@ rev6作成中です。
 <todo/rev6.1>
 rev6の修正漏れです。
 </todo/rev6.1>
+<todo/rev6.2>
+さらに修正が入ります。
+</todo/rev6.2>
 </todo/rev6>
